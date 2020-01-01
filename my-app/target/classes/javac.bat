@@ -1,1 +1,0 @@
-cmd.exe /X /C ""C:\Program Files\Java\jdk-13.0.1\bin\javac.exe" @C:/SW_Works/Git1/maven-hello-world/my-app/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler13789625461287042907arguments"
